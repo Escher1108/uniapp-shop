@@ -12,5 +12,7 @@
 * getImgCategory.json 获取图片分类
 * getDateByCategory.json 根据图片分类获取图片列表
 
-![](https://gitee.com/jingyu7/uniapp_shop/raw/master/README_files/1.jpg)
-![](https://gitee.com/jingyu7/uniapp_shop/raw/master/README_files/2.jpg)
+![](https://img.maocdn.cn/img/2021/09/25/1.png)
+![](https://img.maocdn.cn/img/2021/09/25/2.png)
+![](https://img.maocdn.cn/img/2021/09/25/3.png)
+![](https://img.maocdn.cn/img/2021/09/25/4.png)
