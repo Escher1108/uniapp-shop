@@ -1,0 +1,43 @@
+{
+	"status": 0,
+	"message": [{
+		"cat_id": 1,
+		"cat_name": "高清壁纸"
+	}, {
+		"cat_id": 2,
+		"cat_name": "自然风景"
+	}, {
+		"cat_id": 3,
+		"cat_name": "唯美卡通"
+	}, {
+		"cat_id": 4,
+		"cat_name": "人物场景"
+	}, {
+		"cat_id": 5,
+		"cat_name": "节日配图"
+	}, {
+		"cat_id": 6,
+		"cat_name": "背景图片"
+	}, {
+		"cat_id": 7,
+		"cat_name": "宠物生活"
+	}, {
+		"cat_id": 8,
+		"cat_name": "显微世界"
+	}, {
+		"cat_id": 9,
+		"cat_name": "岛国风光"
+	}, {
+		"cat_id": 10,
+		"cat_name": "天水一线"
+	}, {
+		"cat_id": 11,
+		"cat_name": "多姿多彩"
+	}, {
+		"cat_id": 12,
+		"cat_name": "风流人物"
+	}, {
+		"cat_id": 13,
+		"cat_name": "世界遗产"
+	}]
+}

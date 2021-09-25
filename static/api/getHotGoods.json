@@ -1,0 +1,21 @@
+{
+   "status":0,
+   "message":{
+      "total":2,
+      "pagenum":1,
+      "goods":[
+         {
+            "goods_id":1,
+            "goods_name":"小米充电宝移动电源10000毫安快充超薄小巧便携大容量迷你18w高速",
+            "goods_price":79,
+            "goods_small_logo":"https://img.alicdn.com/bao/uploaded/i2/1714128138/O1CN01U1FC3x29zFsfq5Kra-1714128138.jpg_240x240.jpg"
+         },
+		 {
+		    "goods_id":2,
+		    "goods_name":"【倒计时2小时】小米10S 5g手机骁龙870对称式立体声智能拍照游戏小米官方旗舰店小米手机",
+		    "goods_price":2999,
+		    "goods_small_logo":"https://img.alicdn.com/bao/uploaded/i3/1714128138/O1CN01vwvkvd29zFsfMbX06_!!2-item_pic.png_240x240.jpg"
+		 }
+      ]
+   }
+}
